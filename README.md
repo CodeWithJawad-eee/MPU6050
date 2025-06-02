@@ -1,4 +1,3 @@
-# MPU6050
 # MPU6050 Breakout Board 🧭
 
 A custom-designed breakout board for the **MPU6050** 6-axis accelerometer and gyroscope sensor, built using **Altium Designer**. This project is ideal for embedded systems learners, hobbyists, and developers looking to integrate motion sensing in robotics, drones, or IoT applications.
