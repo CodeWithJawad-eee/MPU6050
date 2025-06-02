@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=SDA Pin=R1-1
+Removed Pin From Net: NetName=SCL Pin=R2-1
+Removed Pin From Net: NetName=AD0 Pin=R3-1
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=+3V3 Pin=U2-1
+Removed Pin From Net: NetName=NetLED1_2 Pin=U2-2
+Removed Member From Class: ClassName=MPU6050 Member=U2
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES-TH_BD2.3-L6.5-P10.50-D0.5"; UniqueID = "\QRGWESPZ" ("\QRGWESPZ")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20180316/70C0E2BDAE7FCC62C531A5A58D202EE1.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "RC0603FR-072KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "???? 2kO ±1% 100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO(??)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "RC0603FR-072KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power(Watts)"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C105576"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "RC0603FR-072KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2kO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage-Supply(Max)"; Value = "75V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES-TH_BD2.3-L6.5-P10.50-D0.5"; UniqueID = "\PRVKNSIO" ("\PRVKNSIO")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20180224/C181757_15194369480721363983.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "???? 4.7kO ±1% 100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO(??)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Overload Voltage (Max)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power(Watts)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7kO"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RES-TH_BD2.3-L6.5-P10.50-D0.5"; UniqueID = "\CNHTYEIY" ("\CNHTYEIY")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20180224/C181757_15194369480721363983.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "???? 4.7kO ±1% 100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO(??)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Overload Voltage (Max)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power(Watts)"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C99782"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7kO"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0603)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20180224/C181757_15194369480721363983.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "???? 4.7kO ±1% 100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55?~+155?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overload Voltage (Max)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power(Watts)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C99782"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "RC0603FR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7kO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-2
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Pin To Net: NetName=SCL Pin=R3-1
+Added Pin To Net: NetName=+3V3 Pin=R3-2
+Added Pin To Net: NetName=AD0 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Member To Class: ClassName=MPU6050 Member=Component R4 4.7kO

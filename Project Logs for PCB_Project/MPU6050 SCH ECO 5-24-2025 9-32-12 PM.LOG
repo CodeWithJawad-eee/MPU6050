@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R1 Old Footprint=R0603 New Footprint=RES-TH_BD2.3-L6.5-P10.50-D0.5
+Change Component Footprint: Designator=R2 Old Footprint=R0603 New Footprint=RES-TH_BD2.3-L6.5-P10.50-D0.5
+Change Component Footprint: Designator=R3 Old Footprint=R0603 New Footprint=RES-TH_BD2.3-L6.5-P10.50-D0.5
+Change Component Comment: Designator=R1 Old Comment=2kO New Comment=4.7kO
+Change Pin Designator/Name:  Old Designator=R1-1 Old Name=1 New Designator =2 New Name=2

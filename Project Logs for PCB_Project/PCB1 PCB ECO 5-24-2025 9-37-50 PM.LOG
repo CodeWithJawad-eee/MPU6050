@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES-TH_BD2.3-L6.5-P10.50-D0.5 New Footprint=R0603
+Change Component Footprint: Designator=R2 Old Footprint=RES-TH_BD2.3-L6.5-P10.50-D0.5 New Footprint=R0603
+Change Component Footprint: Designator=R3 Old Footprint=RES-TH_BD2.3-L6.5-P10.50-D0.5 New Footprint=R0603
+Change Component Comment : Designator=R1 Old Comment=4.7kO New Comment=2kO
+Added Pin To Net: NetName=+3V3 Pin=R1-1
